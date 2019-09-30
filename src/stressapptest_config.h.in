@@ -175,6 +175,9 @@
 /* Defined if the target CPU is aarch64 */
 #undef STRESSAPPTEST_CPU_AARCH64
 
+/* Defined if the target CPU is armv7l */
+#undef STRESSAPPTEST_CPU_ARMV7L
+
 /* Defined if the target CPU is armv7a */
 #undef STRESSAPPTEST_CPU_ARMV7A
 
